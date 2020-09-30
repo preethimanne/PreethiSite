@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+![Alt Netflix](https://images.unsplash.com/photo-1540224871915-bc8ffb782bdf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
+
 You can use the [editor on GitHub](https://github.com/preethimanne/PreethiSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -35,8 +38,6 @@ Webpage Link:
 https://www.yahoo.com/
 
 
-
-![Alt Netflix](https://images.unsplash.com/photo-1540224871915-bc8ffb782bdf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
 
 [In-N-Out](https://images.unsplash.com/photo-1524461298838-e4c70a4b4b21?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80) and ![Image](src)
 ```
