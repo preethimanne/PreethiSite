@@ -9,9 +9,9 @@
 ![Alt In-N-Out](https://images.unsplash.com/photo-1524461298838-e4c70a4b4b21?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80)
 ## My Favorite Foods
 1. **Indian Cuisine**
-  * Biryani
-  * Samosas
-  * Spring Rolls
+  > >* Biryani
+  > >* Samosas
+  > >* Spring Rolls
 2. **Fast Food**
   a. Panda Express
   b. Chipotle
