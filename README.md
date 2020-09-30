@@ -33,8 +33,7 @@ Syntax highlighted code block
 Webpage Link:
 https://www.yahoo.com/
 
-**Bold** and _Italic_ and `Code` text
-Netflix: ![Alt Netflix](https://images.unsplash.com/photo-1540224871915-bc8ffb782bdf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
+![Alt Netflix](https://images.unsplash.com/photo-1540224871915-bc8ffb782bdf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
 
 [In-N-Out](https://images.unsplash.com/photo-1524461298838-e4c70a4b4b21?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80) and ![Image](src)
 ```
