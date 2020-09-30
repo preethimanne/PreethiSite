@@ -13,13 +13,13 @@
      * Samosas
      * Spring Rolls
 2. **Fast Food**
-  a. Panda Express
-  b. Chipotle
-  c. In-N-Out
+     * Panda Express
+     * Chipotle
+     * In-N-Out
 3. **Snacks**
-  a. Flamin' Hot Cheetos
-  b. Chocolate Chip Cookies
-  c. Popcorn
+     * Flamin' Hot Cheetos
+     * Chocolate Chip Cookies
+     * Popcorn
 
 Webpage Link:
 https://www.yahoo.com/
